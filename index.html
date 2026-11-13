@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ДОБРО ПОРУЧ — КИЇВ</title>
+
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    >
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f6fb;
+            color: #263247;
+        }
+
+        header {
+            padding: 18px 20px;
+            background: #263b70;
+            color: white;
+        }
+
+        header h1 {
+            margin: 0 0 6px;
+            font-size: 23px;
+        }
+
+        header p {
+            margin: 0;
+            font-size: 14px;
+        }
+
+        .toolbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+            padding: 12px 16px;
+            background: white;
+        }
+
+        .languages button {
+            padding: 8px 14px;
+            border: 1px solid #263b70;
+            border-radius: 6px;
+            background: white;
+            cursor: pointer;
+        }
+
+        .languages button.active {
+            background: #263b70;
+            color: white;
+        }
+
+        .location-label {
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        #map {
+            width: 100%;
+            height: calc(100vh - 145px);
+            min-height: 400px;
+        }
+
+        footer {
+            padding: 10px;
+            text-align: center;
+            font-size: 12px;
+            color: #667085;
+            background: white;
+        }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 19px;
+            }
+
+            #map {
+                height: calc(100vh - 165px);
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>ДОБРО ПОРУЧ — КИЇВ</h1>
+    <p id="subtitle">Корисна карта допомоги та важливих місць</p>
+</header>
+
+<div class="toolbar">
+    <div class="location-label" id="location">
+        📍 Борщагівка
+    </div>
+
+    <div class="languages">
+        <button id="ua" class="active" onclick="setLanguage('uk')">
+            🇺🇦 УКР
+        </button>
+
+        <button id="ru" onclick="setLanguage('ru')">
+            🇷🇺 РУС
+        </button>
+    </div>
+</div>
+
+<div id="map"></div>
+
+<footer id="footer">
+    ДОБРО ПОРУЧ — КИЇВ | Разом допомагаємо одне одному
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+    const map = L.map('map').setView([50.410, 30.367], 14);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; OpenStreetMap'
+    }).addTo(map);
+
+    const translations = {
+        uk: {
+            subtitle: 'Корисна карта допомоги та важливих місць',
+            location: '📍 Борщагівка',
+            footer: 'ДОБРО ПОРУЧ — КИЇВ | Разом допомагаємо одне одному'
+        },
+        ru: {
+            subtitle: 'Полезная карта помощи и важных мест',
+            location: '📍 Борщагівка',
+            footer: 'ДОБРО ПОРУЧ — КИЕВ | Вместе помогаем друг другу'
+        }
+    };
+
+    function setLanguage(language) {
+        document.documentElement.lang = language;
+
+        document.getElementById('subtitle').textContent =
+            translations[language].subtitle;
+
+        document.getElementById('location').textContent =
+            translations[language].location;
+
+        document.getElementById('footer').textContent =
+            translations[language].footer;
+
+        document.getElementById('ua').classList.toggle(
+            'active', language === 'uk'
+        );
+
+        document.getElementById('ru').classList.toggle(
+            'active', language === 'ru'
+        );
+    }
+</script>
+
+</body>
+</html>
