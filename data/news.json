@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "category": "Енергетика",
+    "title": "Київ готується до тривалих відключень електроенергії",
+    "summary": "Місто опрацьовує додаткові заходи для стабільної роботи водопостачання та критичної інфраструктури.",
+    "date": "2026-11-12",
+    "image": "",
+    "icon": "⚡",
+    "source_name": "Київська міська рада",
+    "source_url": "https://kmr.gov.ua/news/deputaty-kyivrady-spilno-z-predstavnykamy-komunalnykh-pidpryiemstv-opratsovuiut-dodatkovi-zakhody-dlia-pidhotovky-stolytsi-do-tryvalykh-znestrumlen"
+  },
+  {
+    "id": 2,
+    "category": "Водопостачання",
+    "title": "Київводоканал повідомив про тимчасове відключення води на вулиці Липській",
+    "summary": "Причина — пошкодження водопроводу. Слідкуйте за повідомленнями комунальних служб.",
+    "date": "2026-11-14",
+    "image": "",
+    "icon": "💧",
+    "source_name": "Київводоканал",
+    "source_url": "https://vodokanal.kyiv.ua/news/na-vulici-lipskii-timcasovo-vidsutnje-vodopostacannia-cerez-poskodzennia-vodoprovodu"
+  }
+]

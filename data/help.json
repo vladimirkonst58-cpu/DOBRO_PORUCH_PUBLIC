@@ -1,0 +1,329 @@
+[
+  {
+    "name": "Голосіївський територіальний центр",
+    "address": "вул. Гетьмана Павла Скоропадського, 25/2",
+    "district": "Голосіївський",
+    "category": "social_support",
+    "description": "Соціальні послуги. Залежно від установи: догляд удома, натуральна допомога, консультування, транспортна та інша підтримка. Наявність конкретної послуги уточнюйте телефоном.",
+    "phones": [
+      "(044) 235-00-40"
+    ],
+    "working_time": "Пн–Чт 09:00–17:30; Пт 09:00–16:30; перерва 13:00–14:00",
+    "source_url": "https://dsp.kyivcity.gov.ua/news/terytorialni-tsentry-sotsialnoho-obsluhovuvannia-nadannia-sotsialnykh-posluh-u-m-kyievi",
+    "lat": 50.4409484,
+    "lon": 30.5057586,
+    "id": 1
+  },
+  {
+    "name": "Дарницький територіальний центр",
+    "address": "вул. Архітектора Вербицького, 9І",
+    "district": "Дарницький",
+    "category": "social_support",
+    "description": "Соціальні послуги. Залежно від установи: догляд удома, натуральна допомога, консультування, транспортна та інша підтримка. Наявність конкретної послуги уточнюйте телефоном.",
+    "phones": [
+      "(044) 564-08-22",
+      "(044) 563-99-80"
+    ],
+    "working_time": "Пн–Чт 08:00–17:00; Пт 08:00–15:45; перерва 12:00–12:45",
+    "source_url": "https://dsp.kyivcity.gov.ua/news/terytorialni-tsentry-sotsialnoho-obsluhovuvannia-nadannia-sotsialnykh-posluh-u-m-kyievi",
+    "lat": 50.4120461,
+    "lon": 30.6586326,
+    "id": 2
+  },
+  {
+    "name": "Відділення Дарницького терцентру",
+    "address": "вул. Тростянецька, 12",
+    "district": "Дарницький",
+    "category": "social_support",
+    "description": "Соціальні послуги. Залежно від установи: догляд удома, натуральна допомога, консультування, транспортна та інша підтримка. Наявність конкретної послуги уточнюйте телефоном.",
+    "phones": [
+      "(044) 563-04-44",
+      "(044) 563-44-04"
+    ],
+    "working_time": "Уточнюйте телефоном",
+    "source_url": "https://dsp.kyivcity.gov.ua/news/terytorialni-tsentry-sotsialnoho-obsluhovuvannia-nadannia-sotsialnykh-posluh-u-m-kyievi",
+    "lat": 50.4199548,
+    "lon": 30.6573577,
+    "id": 3
+  },
+  {
+    "name": "Деснянський територіальний центр",
+    "address": "вул. Будищанська, 4",
+    "district": "Деснянський",
+    "category": "social_support",
+    "description": "Соціальні послуги. Залежно від установи: догляд удома, натуральна допомога, консультування, транспортна та інша підтримка. Наявність конкретної послуги уточнюйте телефоном.",
+    "phones": [
+      "(044) 533-72-51"
+    ],
+    "working_time": "Пн–Чт 08:00–17:00; Пт 08:00–15:45",
+    "source_url": "https://dsp.kyivcity.gov.ua/news/terytorialni-tsentry-sotsialnoho-obsluhovuvannia-nadannia-sotsialnykh-posluh-u-m-kyievi",
+    "lat": 50.5294642,
+    "lon": 30.6056551,
+    "id": 4
+  },
+  {
+    "name": "Дніпровський територіальний центр",
+    "address": "вул. Остафія Дашкевича, 7-А",
+    "district": "Дніпровський",
+    "category": "social_support",
+    "description": "Соціальні послуги. Залежно від установи: догляд удома, натуральна допомога, консультування, транспортна та інша підтримка. Наявність конкретної послуги уточнюйте телефоном.",
+    "phones": [
+      "(044) 512-00-35"
+    ],
+    "working_time": "Пн–Чт 09:00–17:00; Пт 09:00–16:00; перерва 13:00–13:15",
+    "source_url": "https://dsp.kyivcity.gov.ua/news/terytorialni-tsentry-sotsialnoho-obsluhovuvannia-nadannia-sotsialnykh-posluh-u-m-kyievi",
+    "lat": 50.4824153,
+    "lon": 30.6026006,
+    "id": 5
+  },
+  {
+    "name": "Відділення Березняківське",
+    "address": "вул. Березняківська, 6-А",
+    "district": "Дніпровський",
+    "category": "social_support",
+    "description": "Соціальні послуги. Залежно від установи: догляд удома, натуральна допомога, консультування, транспортна та інша підтримка. Наявність конкретної послуги уточнюйте телефоном.",
+    "phones": [
+      "(044) 295-09-41"
+    ],
+    "working_time": "Уточнюйте телефоном",
+    "source_url": "https://dsp.kyivcity.gov.ua/news/terytorialni-tsentry-sotsialnoho-obsluhovuvannia-nadannia-sotsialnykh-posluh-u-m-kyievi",
+    "lat": 50.4341331,
+    "lon": 30.6112916,
+    "id": 6
+  },
+  {
+    "name": "Оболонський територіальний центр",
+    "address": "вул. Озерна, 18-А",
+    "district": "Оболонський",
+    "category": "social_support",
+    "description": "Соціальні послуги. Залежно від установи: догляд удома, натуральна допомога, консультування, транспортна та інша підтримка. Наявність конкретної послуги уточнюйте телефоном.",
+    "phones": [
+      "(044) 411-97-75"
+    ],
+    "working_time": "Пн–Чт 08:00–17:00; Пт 08:00–15:45",
+    "source_url": "https://dsp.kyivcity.gov.ua/news/terytorialni-tsentry-sotsialnoho-obsluhovuvannia-nadannia-sotsialnykh-posluh-u-m-kyievi",
+    "lat": 50.5243757,
+    "lon": 30.4939486,
+    "id": 7
+  },
+  {
+    "name": "Печерський територіальний центр",
+    "address": "вул. Рогнідинська, 4-Б",
+    "district": "Печерський",
+    "category": "social_support",
+    "description": "Соціальні послуги. Залежно від установи: догляд удома, натуральна допомога, консультування, транспортна та інша підтримка. Наявність конкретної послуги уточнюйте телефоном.",
+    "phones": [
+      "(044) 289-99-78"
+    ],
+    "working_time": "Пн–Чт 08:00–16:30; Пт 08:00–15:15; перерва 12:15–12:30",
+    "source_url": "https://dsp.kyivcity.gov.ua/news/terytorialni-tsentry-sotsialnoho-obsluhovuvannia-nadannia-sotsialnykh-posluh-u-m-kyievi",
+    "lat": 50.4395596,
+    "lon": 30.5198845,
+    "id": 8
+  },
+  {
+    "name": "Подільський територіальний центр",
+    "address": "вул. Братська, 15/9",
+    "district": "Подільський",
+    "category": "social_support",
+    "description": "Соціальні послуги. Залежно від установи: догляд удома, натуральна допомога, консультування, транспортна та інша підтримка. Наявність конкретної послуги уточнюйте телефоном.",
+    "phones": [
+      "(044) 425-03-93",
+      "(044) 425-05-12"
+    ],
+    "working_time": "Пн–Чт 08:30–17:15; Пт 08:30–16:00; перерва 13:00–13:30",
+    "source_url": "https://dsp.kyivcity.gov.ua/news/terytorialni-tsentry-sotsialnoho-obsluhovuvannia-nadannia-sotsialnykh-posluh-u-m-kyievi",
+    "lat": 50.4617467,
+    "lon": 30.5240187,
+    "id": 9
+  },
+  {
+    "name": "Святошинський територіальний центр",
+    "address": "вул. Жмеринська, 22-А",
+    "district": "Святошинський",
+    "category": "social_support",
+    "description": "Соціальні послуги. Залежно від установи: догляд удома, натуральна допомога, консультування, транспортна та інша підтримка. Наявність конкретної послуги уточнюйте телефоном.",
+    "phones": [
+      "(044) 290-55-72"
+    ],
+    "working_time": "Пн–Чт 08:00–17:00; Пт 08:00–15:45",
+    "source_url": "https://dsp.kyivcity.gov.ua/news/terytorialni-tsentry-sotsialnoho-obsluhovuvannia-nadannia-sotsialnykh-posluh-u-m-kyievi",
+    "lat": 50.4378785,
+    "lon": 30.3757586,
+    "id": 10
+  },
+  {
+    "name": "Відділення Святошинського терцентру",
+    "address": "вул. Чорнобильська, 9",
+    "district": "Святошинський",
+    "category": "social_support",
+    "description": "Соціальні послуги. Залежно від установи: догляд удома, натуральна допомога, консультування, транспортна та інша підтримка. Наявність конкретної послуги уточнюйте телефоном.",
+    "phones": [],
+    "working_time": "Уточнюйте телефоном",
+    "source_url": "https://dsp.kyivcity.gov.ua/news/terytorialni-tsentry-sotsialnoho-obsluhovuvannia-nadannia-sotsialnykh-posluh-u-m-kyievi",
+    "lat": 50.4581009,
+    "lon": 30.3448838,
+    "id": 11
+  },
+  {
+    "name": "Шевченківський територіальний центр",
+    "address": "вул. Білоруська, 11",
+    "district": "Шевченківський",
+    "category": "social_support",
+    "description": "Соціальні послуги. Залежно від установи: догляд удома, натуральна допомога, консультування, транспортна та інша підтримка. Наявність конкретної послуги уточнюйте телефоном.",
+    "phones": [
+      "(044) 236-50-56"
+    ],
+    "working_time": "Пн–Чт 08:00–17:00; Пт 08:00–15:45",
+    "source_url": "https://dsp.kyivcity.gov.ua/news/terytorialni-tsentry-sotsialnoho-obsluhovuvannia-nadannia-sotsialnykh-posluh-u-m-kyievi",
+    "lat": 50.4636538,
+    "lon": 30.4747296,
+    "id": 12
+  },
+  {
+    "name": "Відділення Шевченківського терцентру",
+    "address": "вул. Володимира Сальського, 33",
+    "district": "Шевченківський",
+    "category": "social_support",
+    "description": "Соціальні послуги. Залежно від установи: догляд удома, натуральна допомога, консультування, транспортна та інша підтримка. Наявність конкретної послуги уточнюйте телефоном.",
+    "phones": [
+      "(044) 338-02-93"
+    ],
+    "working_time": "Уточнюйте телефоном",
+    "source_url": "https://dsp.kyivcity.gov.ua/news/terytorialni-tsentry-sotsialnoho-obsluhovuvannia-nadannia-sotsialnykh-posluh-u-m-kyievi",
+    "lat": 50.4787355,
+    "lon": 30.431623,
+    "id": 13
+  },
+  {
+    "name": "Відділення Шевченківського терцентру",
+    "address": "вул. Половецька, 14",
+    "district": "Шевченківський",
+    "category": "social_support",
+    "description": "Соціальні послуги. Залежно від установи: догляд удома, натуральна допомога, консультування, транспортна та інша підтримка. Наявність конкретної послуги уточнюйте телефоном.",
+    "phones": [
+      "(044) 486-66-61"
+    ],
+    "working_time": "Уточнюйте телефоном",
+    "source_url": "https://dsp.kyivcity.gov.ua/news/terytorialni-tsentry-sotsialnoho-obsluhovuvannia-nadannia-sotsialnykh-posluh-u-m-kyievi",
+    "lat": 50.4690711,
+    "lon": 30.4838563,
+    "id": 14
+  },
+  {
+    "name": "Vcentri HUB Оболонський",
+    "address": "Оболонський проспект, 22-А",
+    "district": "Оболонський",
+    "category": "volunteer_hub",
+    "description": "Громадський простір для соціальних і волонтерських ініціатив, зустрічей та заходів. Актуальні заходи й можливість отримати конкретну допомогу уточнюйте телефоном.",
+    "phones": [
+      "067-508-10-49"
+    ],
+    "working_time": "Уточнюйте телефоном",
+    "source_url": "https://kyivcity.gov.ua/veteranam_ta_khnim_rodinam/gromadski_initsiativi_997243/gromadski_initsiativi_na_bazi_Vcentri_HUB.html",
+    "lat": 50.5100549,
+    "lon": 30.5021649,
+    "id": 15
+  },
+  {
+    "name": "Vcentri HUB Шевченківський",
+    "address": "вул. Володимирська, 51-Б",
+    "district": "Шевченківський",
+    "category": "volunteer_hub",
+    "description": "Громадський простір для соціальних і волонтерських ініціатив, зустрічей та заходів. Актуальні заходи й можливість отримати конкретну допомогу уточнюйте телефоном.",
+    "phones": [
+      "093-389-44-57"
+    ],
+    "working_time": "Уточнюйте телефоном",
+    "source_url": "https://kyivcity.gov.ua/veteranam_ta_khnim_rodinam/gromadski_initsiativi_997243/gromadski_initsiativi_na_bazi_Vcentri_HUB.html",
+    "lat": 50.4467466,
+    "lon": 30.5145692,
+    "id": 16
+  },
+  {
+    "name": "Vcentri HUB Голосіївський",
+    "address": "вул. Велика Китаївська, 83",
+    "district": "Голосіївський",
+    "category": "volunteer_hub",
+    "description": "Громадський простір для соціальних і волонтерських ініціатив, зустрічей та заходів. Актуальні заходи й можливість отримати конкретну допомогу уточнюйте телефоном.",
+    "phones": [
+      "093-549-69-85"
+    ],
+    "working_time": "Уточнюйте телефоном",
+    "source_url": "https://kyivcity.gov.ua/veteranam_ta_khnim_rodinam/gromadski_initsiativi_997243/gromadski_initsiativi_na_bazi_Vcentri_HUB.html",
+    "lat": 50.3990603,
+    "lon": 30.5318025,
+    "id": 17
+  },
+  {
+    "name": "Vcentri HUB Солом'янський",
+    "address": "вул. Волинська, 28/17",
+    "district": "Солом'янський",
+    "category": "volunteer_hub",
+    "description": "Громадський простір для соціальних і волонтерських ініціатив, зустрічей та заходів. Актуальні заходи й можливість отримати конкретну допомогу уточнюйте телефоном.",
+    "phones": [
+      "068-815-46-33"
+    ],
+    "working_time": "Уточнюйте телефоном",
+    "source_url": "https://kyivcity.gov.ua/veteranam_ta_khnim_rodinam/gromadski_initsiativi_997243/gromadski_initsiativi_na_bazi_Vcentri_HUB.html",
+    "lat": 50.2815549,
+    "lon": 30.2920748,
+    "id": 18
+  },
+  {
+    "name": "Vcentri HUB Дніпровський",
+    "address": "вул. Андрія Малишка, 25/1",
+    "district": "Дніпровський",
+    "category": "volunteer_hub",
+    "description": "Громадський простір для соціальних і волонтерських ініціатив, зустрічей та заходів. Актуальні заходи й можливість отримати конкретну допомогу уточнюйте телефоном.",
+    "phones": [
+      "068-826-38-24"
+    ],
+    "working_time": "Уточнюйте телефоном",
+    "source_url": "https://kyivcity.gov.ua/veteranam_ta_khnim_rodinam/gromadski_initsiativi_997243/gromadski_initsiativi_na_bazi_Vcentri_HUB.html",
+    "lat": 50.4608118,
+    "lon": 30.6233359,
+    "id": 19
+  },
+  {
+    "name": "Halom Volume",
+    "address": "вул. Казимира Малевича, 86-О",
+    "district": "Голосіївський",
+    "category": "volunteer_center",
+    "description": "Волонтерський осередок. Напрямки роботи та можливість отримати допомогу уточнюйте безпосередньо в центрі.",
+    "phones": [],
+    "working_time": "Уточнюйте телефоном",
+    "source_url": "https://vcua.org/cities/kiyiv",
+    "lat": 50.4147768,
+    "lon": 30.519631,
+    "id": 20
+  },
+  {
+    "name": "Kyiv Volunteer Community Hillel",
+    "address": "вул. Велика Васильківська, 30",
+    "district": "Голосіївський",
+    "category": "volunteer_center",
+    "description": "Волонтерський осередок. Напрямки роботи та можливість отримати допомогу уточнюйте безпосередньо в центрі.",
+    "phones": [],
+    "working_time": "Уточнюйте телефоном",
+    "source_url": "https://vcua.org/cities/kiyiv",
+    "lat": 50.4383816,
+    "lon": 30.5156199,
+    "id": 21
+  },
+  {
+    "name": "Kyiv Volunteer Community Hesed",
+    "address": "вул. Лондонська, 4-А",
+    "district": "Печерський",
+    "category": "volunteer_center",
+    "description": "Волонтерський осередок. Напрямки роботи та можливість отримати допомогу уточнюйте безпосередньо в центрі.",
+    "phones": [
+      "050-412-25-15"
+    ],
+    "working_time": "Уточнюйте телефоном",
+    "source_url": "https://vcua.org/cities/kiyiv",
+    "lat": 50.4335662,
+    "lon": 30.4558876,
+    "id": 22
+  }
+]
